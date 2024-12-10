@@ -1,4 +1,4 @@
-# COMP517_Voting_implementation
+# Voting_implementation
 
 This project implements various voting rules that take the preferences of a group of voters and determine a winner based on different decision-making methods. The core task is to simulate voting systems, where the input is a preference profile of voters, and the output is the winner according to the selected voting rule.
 
